@@ -36,6 +36,7 @@ dagster project from-example \
   --example quickstart_etl
 ```
 
+![](docs/dagster-ui.png)
 
 UI doesn't have any sort of authenication, so it's not really suitable for production use. and not sure they will add it. based on his [logic](https://github.com/dagster-io/dagster/issues/2219#issuecomment-1489873034)
 
